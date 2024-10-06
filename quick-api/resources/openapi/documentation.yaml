@@ -1,0 +1,8 @@
+openapi: "3.1.0"
+info:
+  title: "quick_api API"
+  description: "quick_api API"
+  version: "1.0.0"
+servers:
+- url: "https://quick_api"
+paths: {}
